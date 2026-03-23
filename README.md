@@ -1,0 +1,47 @@
+# NONA REEVES – Always On Your Side
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+耳を澄ませ いつもの街で
+鳴り響くヘッドフォン聴いて
+最新のマシン この掌に
+交差点走り抜けた
+Can you hear me?
+/Can you feel it with me?
+"Im always on your side"
+You're always on my mind
+悲しみ 溢れた朝も
+音楽がそばにいるから
+Baby baby baby
+思わず「さよなら」
+手を振る間もなく 彷徨う
+ベッドで見てる「夢」じゃない
+渦巻く波に飲まれ
+君の声 探していた
+愛するもの 導かれ
+想いのままにゆだねたなら
+優しく回るリズムに
+運命が遊ばれてゆく
+Baby baby baby
+Baby baby baby
+壁に刻まれて 遺された月に
+約束の光が重なる
+Can you hear me?
+/Can you feel it with me?
+"Im always on your side"
+You're always on my mind
+涙がこぼれおちても
+音楽は、そばにいるさ
+愛の上 振り注ぐBEAT
+想いのままにゆだねたなら
+優しく回るリズムに
+運命が遊ばれてゆく
+Baby baby baby
+Baby baby baby
+いつもそばにいる
+"Im always on your side"
+君を感じてる
+You're always on my mind
+Baby
+```
