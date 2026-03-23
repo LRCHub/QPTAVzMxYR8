@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Always On Your Side",
+  "base_artist": "NONA REEVES",
+  "createdAt": "2026-03-23T09:31:04.409142Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Always on Your Side",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/01_Always_on_Your_Side_Sting.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Always On Your Side",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/02_Always_On_Your_Side_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Always On Your Side",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/03_Always_On_Your_Side_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Always on Your Side",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/04_Always_on_Your_Side_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Always on Your Side",
+      "artist": "Crow, Sheryl",
+      "has_synced": true,
+      "path": "select/05_Always_on_Your_Side_Crow,_Sheryl.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always on your side",
+      "artist": "THE KIDDIE",
+      "has_synced": false,
+      "path": "select/06_Always_on_your_side_THE_KIDDIE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Always on your side",
+      "artist": "KIDDIE, THE",
+      "has_synced": false,
+      "path": "select/07_Always_on_your_side_KIDDIE,_THE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Always On Your Side",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/08_Always_On_Your_Side_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always On Your Side",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_Always_On_Your_Side_Nona_Reeves.txt"
+    }
+  ]
+}
